@@ -1,3 +1,12 @@
+### Hvad har jeg udviklet?
+Jeg har lavet et eksemple på en webshop som har en betalingsservice integrere, så der er mulighed til at købe de produkter som er på siden. 
+
+Teknologien som jeg har brugt på hjemmesiden er Stripe. 
+
+Jeg har valgt at bruge Stripe for en hurtig og nem intergration af betalingsmuligheder på min webshop.
+
+Paypal, Braintree, Square og mange andre betalingsservicer. 
+
 ### Fordele og ulemper
 - +Nemt at setup, og har mange muligheder for betaling som Applepay.
 - +God dokumentation, den var ikke uoverskuelig.
